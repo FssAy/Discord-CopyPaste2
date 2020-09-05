@@ -16,10 +16,10 @@
  - Copy hidden channels
  - Copy server name and icon
  
- ## Missing features
+ ## Missing features from first version
  - Copy specified amount of messages (embeds and files included)
  - Send invite link to all members of the original server
- - Add public bots from the original server
+ - Add public bots from the original server (not possible anymore)
  
  ## Known issues
 Some text and voice channels can't be copied. <br>
