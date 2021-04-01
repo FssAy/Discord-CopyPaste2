@@ -1,3 +1,6 @@
+# IMPORTANT NOTICE
+**Recently I've noticed growth in interest about this project, so I am going to rewrite everything, add more features and release it as a full-fledged app.**
+
 # Discord-CopyPaste2
  Copy any server you wish to. (Just like templates). <br>
  Be aware that this self bot will overwrite target server and using it is against [Discord ToS](https://discord.com/terms)! <br> 
